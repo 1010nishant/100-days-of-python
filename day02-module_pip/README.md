@@ -25,5 +25,12 @@ print(df) # This will display first few rows from the words.csv file
  
 ```
 
-Similarly we can install other modules and look into their documentations for usage instructions.\
-We will find ourselved doing this often in the later part of this course
+Similarly we can install other modules and look into their documentations for usage instructions.
+
+## what is REPL?
+Once we have installed Python 3, we can do some minimal interaction with Python to assure ourselves that things are working. In the long run, we'll use a number of other tools to create Python programs. To start out, we'll interact directly on the command line.
+
+Python's Read-Evaluate-Print Loop (REPL) is the foundation for Python programming. More sophisticated things—such as writing application scripts or web servers—are essentially the same as interaction with the REPL: the Python program reads statements from our application script file or web server script file and evaluates those statements.
+
+This fundamental rule is one of the very appealing features of Python. We can write sophisticated scripts, or we can interact with the language in the REPL; the language is the same.
+
